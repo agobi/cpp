@@ -1,0 +1,5 @@
+prefix, postfix ++
+2-es komplemens (tipusok)
+forditas lepesei
+
+Neumann/Harward
