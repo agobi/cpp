@@ -1,5 +1,6 @@
-prefix, postfix ++
-2-es komplemens (tipusok)
-forditas lepesei
-
 Neumann/Harward
+prefix, postfix ++
+2-es komplemens (tipusok), IEEE754
+
+
+forditas lepesei
