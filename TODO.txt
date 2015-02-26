@@ -1,6 +1,9 @@
-Neumann/Harward
+// Neumann/Harward
+// 2-es komplemens (tipusok), IEEE754
+// int literalok
+
 prefix, postfix ++
-2-es komplemens (tipusok), IEEE754
 
 
 forditas lepesei
+name mangling
