@@ -2,7 +2,15 @@
 // 2-es komplemens (tipusok), IEEE754
 // int literalok
 
+//adatszerkezetek, iterator tipusok, invalidacio
+
+//struct / class
+operator << + const method
+expression kiertekeles
+funktor
+
 prefix, postfix ++
+min, functor
 
 
 forditas lepesei
