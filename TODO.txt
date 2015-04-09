@@ -5,13 +5,24 @@
 //adatszerkezetek, iterator tipusok, invalidacio
 
 //struct / class
-operator << + const method
-expression kiertekeles
-funktor
+//operator << + const method
+//expression kiertekeles
+//funktor, min
+//Konig lookup
 
-prefix, postfix ++
-min, functor
+//prefix, postfix ++
 
+//forditas lepesei
+//name mangling
 
-forditas lepesei
-name mangling
+1. +-
+csak deklaracio
+extern, int, static, namespace
+map, set
+pointer
+oroklodes
+2.
+lista
+3. +-
+lista
+4. ZH

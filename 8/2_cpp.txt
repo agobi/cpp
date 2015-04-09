@@ -1,0 +1,4 @@
+#include "1_cpp.txt"
+
+#define NAME Jancsi
+#include "1_cpp.txt"

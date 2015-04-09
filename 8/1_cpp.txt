@@ -1,0 +1,14 @@
+#ifndef NAME
+# define NAME Juliska
+# define NAME_DEFINED_HERE
+#endif
+Hello NAME,
+
+Thank you NAME!
+
+Cheers,
+Attila Gobi
+
+#ifdef NAME_DEFINED_HERE
+# undef NAME
+#endif
