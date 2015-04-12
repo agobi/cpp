@@ -1,5 +1,6 @@
 #include <vector>
 #include <iostream>
+#include <list>
 
 template <typename T>
 bool dup(T it, T end)
