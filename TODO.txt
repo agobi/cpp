@@ -16,11 +16,12 @@
 //name mangling
 
 1. +-
-csak deklaracio
-extern, int, static, namespace
-map, set
+//csak deklaracio
+//extern, int, static, namespace
+//map, set
 pointer
 oroklodes
+while(cin>>i)
 2.
 lista
 3. +-
