@@ -19,11 +19,14 @@
 //csak deklaracio
 //extern, int, static, namespace
 //map, set
-pointer
-oroklodes
-while(cin>>i)
+//pointer, const pointer
+//pointer vs ref
+//while(cin>>i)
 2.
-lista
+//lista
 3. +-
-lista
+delete vs delete[]
+tombok
+oroklodes
+value_type, typename
 4. ZH
