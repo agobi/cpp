@@ -25,8 +25,8 @@
 2.
 //lista
 3. +-
-delete vs delete[]
-tombok
+#delete vs delete[]
+#tombok
 oroklodes
-value_type, typename
+#value_type, typename
 4. ZH
