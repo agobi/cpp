@@ -1,8 +1,3 @@
-CXXFLAGS=-Wall -Wextra -g -O2
-CC=$(CXX)
-EXE=1_main 2_chars
-all: $(EXE)
+PROGRAMS=1_main 2_chars
+include ../Makefile.inc
 1_main: 1_main.o def.o
-
-clean:
-	rm -f $(EXE) def.o

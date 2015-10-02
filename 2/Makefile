@@ -1,7 +1,5 @@
-CXXFLAGS=-Wall -Wextra -g -O2
-CC=$(CXX)
+PROGRAMS=1_lnko 2_lnko
+include ../Makefile.inc
 
+1_lnko: 1_lnko.o lnko.o lkkt.o
 2_lnko: 2_lnko.o lnko.o lkkt.o
-lkkt.o: lkkt.cc lkkt.h lnko.h
-lnko.o: lnko.cc lnko.h
-2_lnko.o: 2_lnko.cc lnko.h lkkt.h
